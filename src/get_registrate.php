@@ -9,7 +9,7 @@
 </head>
 <body>
     <form class="form" action="post_registrate.php" method="post">
-        <input class="input" name="surname" type="text" placeholder="Ваше имя">
+        <input class="input" name="name" type="text" placeholder="Ваше имя">
         <input class="input" name="phone" type="tel" placeholder="Ваш телефон">
         <input class="input" name="psw" type="password" placeholder="Пароль">
         <button class="btn" type="submit">Регистрация</button>
